@@ -4,15 +4,13 @@
 
 - Memristor
 - RF switch
-- Ga2O3
 
 ---
 
 ## 🔥 Research Focus
 
 - Nonvolatile RF switches
-- Low Ron reliability
-- Filament rupture physics
+- Neuromorphic Computing
 
 ---
 
