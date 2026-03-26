@@ -1,5 +1,3 @@
-# 👋 Welcome
-
 我是 GE，目前研究：
 
 - Memristor
