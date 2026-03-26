@@ -11,6 +11,5 @@ categories: [notes]
 
 今天的想法：
 
-- 记录一个新思路
-- 后续可以继续补充
-- 也可以加入图片、公式、代码
+阅读一篇综述《Radio Frequency Switches Based on Emerging Resistive Memory Technologies: A Survey》
+
